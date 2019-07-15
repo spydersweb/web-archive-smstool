@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_rsDBFields" value="name:dbField;datatype:string" />	<infoitem key="UD_rsDatabaseStats" value="name:smsCredits;datatype:int,name:smsTesting;datatype:int,name:csvUIDcol;datatype:int,name:csvSMScol;datatype:int,name:csvNoCols;datatype:int,name:dbContacts;datatype:int,name:sentMessages;datatype:int" /></info>
